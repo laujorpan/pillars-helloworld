@@ -1,0 +1,9 @@
+{
+  "name": "pillars-helloworld",
+  "description": "My first project in NodeJs using PillarsJs library",
+  "version": "0.0.1",
+  "dependencies": {
+    "pillars": "*"
+  },
+  "main": "./app.js"
+}
